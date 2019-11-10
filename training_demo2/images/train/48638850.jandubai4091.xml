@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>48638850.jandubai4091.jpeg</filename>
+	<path>C:\Users\ZAID's baby\Documents\TensorFlow\workspace\training_demo\images\48638850.jandubai4091.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>1</ymin>
+			<xmax>321</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>1</ymin>
+			<xmax>569</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

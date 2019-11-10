@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>5b5b5f01959f342d008b474d-750-562.jpg</filename>
+	<path>C:\Users\ZAID's baby\Documents\TensorFlow\workspace\training_demo\images\5b5b5f01959f342d008b474d-750-562.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>108</ymin>
+			<xmax>302</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

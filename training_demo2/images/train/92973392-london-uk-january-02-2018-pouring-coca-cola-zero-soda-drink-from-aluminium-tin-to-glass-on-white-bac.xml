@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>92973392-london-uk-january-02-2018-pouring-coca-cola-zero-soda-drink-from-aluminium-tin-to-glass-on-white-bac.jpg</filename>
+	<path>C:\Users\ZAID's baby\Documents\TensorFlow\workspace\training_demo\images\92973392-london-uk-january-02-2018-pouring-coca-cola-zero-soda-drink-from-aluminium-tin-to-glass-on-white-bac.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>919</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>117</ymin>
+			<xmax>900</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

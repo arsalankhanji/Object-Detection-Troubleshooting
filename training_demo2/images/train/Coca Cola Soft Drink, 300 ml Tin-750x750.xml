@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Coca Cola Soft Drink, 300 ml Tin-750x750.jpg</filename>
+	<path>C:\Users\ZAID's baby\Documents\TensorFlow\workspace\training_demo\images\Coca Cola Soft Drink, 300 ml Tin-750x750.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>22</ymin>
+			<xmax>549</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>coke-can-300ml-600x600.jpg</filename>
+	<path>C:\Users\ZAID's baby\Documents\TensorFlow\workspace\training_demo\images\coke-can-300ml-600x600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>35</ymin>
+			<xmax>423</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+</annotation>

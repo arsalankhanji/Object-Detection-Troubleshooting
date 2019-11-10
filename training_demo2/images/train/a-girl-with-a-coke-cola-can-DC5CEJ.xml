@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>a-girl-with-a-coke-cola-can-DC5CEJ.jpg</filename>
+	<path>C:\Users\ZAID's baby\Documents\TensorFlow\workspace\training_demo\images\a-girl-with-a-coke-cola-can-DC5CEJ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>651</xmin>
+			<ymin>340</ymin>
+			<xmax>1187</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+</annotation>

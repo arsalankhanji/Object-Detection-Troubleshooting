@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>coke-coca-cola-can-flickr-oleg-sklyanchuk-500.jpg</filename>
+	<path>C:\Users\ZAID's baby\Documents\TensorFlow\workspace\training_demo\images\coke-coca-cola-can-flickr-oleg-sklyanchuk-500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>55</ymin>
+			<xmax>240</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>
