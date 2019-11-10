@@ -1,0 +1,3 @@
+python xml_to_csv.py -i C:\Users\Arsalan\Documents\TensorFlow\workspace\training_demo2\images/train -o C:\Users\Arsalan\Documents\TensorFlow\workspace\training_demo2\annotations/train_labels.csv
+
+python xml_to_csv.py -i C:\Users\Arsalan\Documents\TensorFlow\workspace\training_demo2\images/test -o C:\Users\Arsalan\Documents\TensorFlow\workspace\training_demo2\annotations/test_labels.csv
